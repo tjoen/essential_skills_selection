@@ -28,6 +28,7 @@ You should get the skills from msm or their repo, use at your own risk
     skill_weather
     skill_speedtest
     skill_translate
+    skill_translate_skills
 
 # skills that assume/recommend desktop
 
